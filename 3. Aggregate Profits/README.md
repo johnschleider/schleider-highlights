@@ -1,0 +1,1 @@
+In this project, I compare aggregate revenues and profits from large public companies to the Bureau of Economic Analysis' measures of national income. The goal is to provide insight into how national income accounts like GDP correlate with changes in a firm's own revenue and profits. 
