@@ -1,5 +1,7 @@
 # Honey, I Can't Find the Comparative Advantage
 
+## Summary
+
 In Fall 2022, I examined empirical evidence for comparative-advantage-based trade. Using UN and World Bank data involving 1,242 country pairs over 15 years, I see if differences in the sector breakdowns of two economies relate to their trade volumes when controlled for distance, size, and other gravity trade model attributes. I find that sector differences has a limited, unstable relationship with trade volumes, implying most global trade is not motivated by comparative advantage. 
 
 ## Data and Framework
