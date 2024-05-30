@@ -8,4 +8,6 @@ Regardless, firm managers and investors can use this simple analysis to consider
 
 ## Data 
 
-I gathered data from CompustatIQ at the Wharton Research Database. It's largely the same dataset that I use for my thesis. See the report for a better understanding of the analysis. It has some cool graphs!
+I gathered data from CompustatIQ at the Wharton Research Database. It's largely the same dataset that I use for my thesis. I can't publish the data because it's too big and goes against the Wharton Research Database's terms of Service.
+
+See the report for a better understanding of the analysis. It has some cool graphs!
