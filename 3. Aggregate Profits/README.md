@@ -1,4 +1,4 @@
-# Macro and Micro: Examining the Relationship Between Accounts of Large Firms and the US Economy
+# Wall and Main: Assessing Aggregations of Public Firms and Macroeconomic Accounts
 
 ## Summary
 
